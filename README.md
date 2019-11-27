@@ -26,6 +26,7 @@
 ## 工具
 
 - [微信公众号格式化编辑器](https://lab.lyric.im/wxformat/)
+- [mermaid-js/mermaid: Generation of diagram and flowchart from text in a similar manner as markdown](https://github.com/mermaid-js/mermaid)
 
 ## 经济
 
