@@ -28,6 +28,10 @@
 - [微信公众号格式化编辑器](https://lab.lyric.im/wxformat/)
 - [mermaid-js/mermaid: Generation of diagram and flowchart from text in a similar manner as markdown](https://github.com/mermaid-js/mermaid)
 
+## 素材
+
+- [Image Finder - High quality free stock images](https://imagefinder.co/)
+
 ## 经济
 
 - [沪深市场](http://q.10jqka.com.cn/)
