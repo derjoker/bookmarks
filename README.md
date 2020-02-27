@@ -8,6 +8,7 @@
 
 ### Corpus
 
+- [Deutscher Wortschatz / Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/de)
 - [TAUS Data cloud - Search](https://data-app.taus.net/)
 - [Full-text data from English-Corpora.org: billions of words of downloadable data](https://www.corpusdata.org/)
 
